@@ -12,8 +12,10 @@
   "dependencies": {
     "express": "^4.18.2",
     "mongodb": "^5.2.0",
+    "mongoose": "^7.0.3",
     "nodemailer": "^6.9.1",
     "passport": "^0.6.0",
+    "passport-local": "^1.0.0",
     "slack-api-client": "^0.1.2"
   }
 }
